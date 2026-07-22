@@ -24,12 +24,6 @@ Opens at http://localhost:8501
 3. Click "Build Knowledge Base"
 4. Ask questions in the chat box — answers come with source citations (document + page number)
 
-## Demo Script (for video)
-
-1. Show the empty app, explain the problem (30s)
-2. Upload 2 sample docs, click build (10s)
-3. Ask 2-3 questions live, show citations expanding (30s)
-4. Close with architecture diagram (10s)
 
 ## Where to get sample docs fast
 
